@@ -1,10 +1,10 @@
 ```
 yarn
-tsc
+yarn build
 ```
 
 ```
 git clean -ffdx
 pnpm i
-tsc
+pnpm run build
 ```
